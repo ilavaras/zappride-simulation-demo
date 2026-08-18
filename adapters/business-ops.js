@@ -1,0 +1,1 @@
+setInterval(()=>{const s=ZapprideSim.load();console.log('Business Ops',s.vehicle,s.trip)},1500);

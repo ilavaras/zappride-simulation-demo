@@ -1,0 +1,1 @@
+// Start buttons\n// ZapprideSim.verify();\n// ZapprideSim.start();\nsetInterval(()=>console.log('Agent',ZapprideSim.load().trip),1500);

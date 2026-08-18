@@ -1,0 +1,1 @@
+setInterval(()=>{const s=ZapprideSim.load();console.log('IT Ops',s.telemetry)},1500);

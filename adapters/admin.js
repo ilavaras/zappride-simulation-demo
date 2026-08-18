@@ -1,0 +1,1 @@
+setInterval(()=>{const s=ZapprideSim.load();console.log('Admin',s.booking,s.payment,s.settlement)},1500);
